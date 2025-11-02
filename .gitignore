@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+venv
+vit_food_classifier_hf
+app copy.py
+my.md
+vit_food_classifier_final.pt
